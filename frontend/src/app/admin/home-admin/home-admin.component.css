@@ -1,0 +1,84 @@
+
+nav{
+    background-color:#22b383;
+    height: 80px;
+    color:aliceblue ;
+  }
+  span{
+    color:rgb(239, 249, 244) ;
+  }
+  .nav-link{
+    color: aliceblue;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  .nav-link:hover{
+    cursor: pointer;
+    background-color: rgba(13, 13, 10, 0.737);
+  }
+  .navbar-brand{
+    padding: 10px;
+    margin: 15px;
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  .logOut{
+  color: black;
+  
+  }
+
+  .btnn {
+    background-color: rgba(9, 201, 137, 0.715);
+    color: rgb(8, 14, 18);
+    border-radius: 10px;
+    padding: 10px;
+    width: 20%;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+  }
+
+  .modal-body{
+    background-color:  #064c35cf;
+    color: rgb(11, 22, 31);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+  }
+  .modal-header{
+    background-color: #064c35cf;
+    color: rgb(9, 16, 23);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+  }
+  .modal-footer{
+    background-color: #064c35cf;
+    
+  }
+  .main{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.655), rgba(0, 0, 0, 0.639)), url(../../../assets/caspar-camille-rubin-HUBNTCzE-R8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  
+
+  .description{
+    position: relative;
+    text-align: center;
+     top: 500px;
+    color: #08a872;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+  }
+  .description h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    
+  }
+  .active{
+    background-color: rgba(13, 16, 15, 0.751);
+  }
+  

@@ -1,0 +1,78 @@
+nav {
+  background-color: #22b383;
+  height: 80px;
+  color: aliceblue;
+}
+span {
+  color: rgb(239, 249, 244);
+}
+.nav-link {
+  color: aliceblue;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.nav-link:hover {
+  cursor: pointer;
+  background-color: rgba(13, 13, 10, 0.737);
+}
+.navbar-brand {
+  padding: 10px;
+  margin: 15px;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.logOut {
+  color: black;
+}
+.iconBtn {
+  background-color: #22b383;
+  color: black;
+  position: relative;
+  top: 0px;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 5px;
+}
+i {
+  padding: 3px;
+  border-radius: 9px;
+  height: 4px;
+}
+
+tr {
+  background-color: rgba(0, 0, 0, 0.737);
+  color: aliceblue;
+}
+td {
+  padding: 10px;
+  margin: 10px;
+}
+thead tr{
+  background-color: antiquewhite;
+  color: rgba(0, 0, 0, 0.909);
+}
+.tableDiv {
+  width: 100%;
+  padding: 10px;
+  margin-top: 60px;
+}
+section{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.247)), url(../../../assets/artiom-vallat-1uBCLmu5BqA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.main{
+  width:100%;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.247)), url(../../../assets/artiom-vallat-1uBCLmu5BqA-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+  padding: 10px;
+}
+.active{
+  background-color: rgba(13, 16, 15, 0.751);
+}
+

@@ -1,0 +1,71 @@
+nav{
+  background-color:#22b383;
+  height: 80px;
+  color:aliceblue ;
+}
+.logo{
+  height: 80px;
+  width: 100px;
+  margin-left: 10px;
+}
+span{
+  color:rgb(239, 249, 244) ;
+}
+.nav-link{
+  color: aliceblue;
+  font-size: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.nav-link:hover{
+  cursor: pointer;
+  background-color: rgba(13, 13, 10, 0.737);
+}
+.navbar-brand{
+  padding-top: 25px;
+  /* margin-left: 10px; */
+  font-size: 50px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.blackIcon{
+color: black;
+
+}
+.blackIcon:hover{
+  cursor: pointer;
+  background-color:#081712a0 ;
+}
+.description{
+  position: relative;
+  text-align: center;
+  bottom: 300px;
+  color: #e8f1ee;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+.description h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  
+}
+
+#carouselExampleControls{
+  height: 100vh;
+  overflow: hidden;
+}
+.carousel-inner img{
+  width: 100%;
+  height: 100vh;
+  background-color:linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.639)) ;
+}
+.carousel-item img{
+  background-color: #ebf4f1;
+  height: 100vh;
+  overflow: hidden;
+  
+}
+#main{
+height: 100vh;
+}
+.active{
+  background-color: rgba(13, 16, 15, 0.751);
+}
